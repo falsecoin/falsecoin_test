@@ -17,7 +17,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>False Coin | Dwight Schrute Bucks</title>
+        <title>False Coin | Dwight Schrute Bucks 💸</title>
         <meta
           name="description"
           content="False Coin is Dwight Schrute Bucks"
