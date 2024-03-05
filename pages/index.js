@@ -21,6 +21,7 @@ const Home = () => {
         <meta
           name="description"
           content="False Coin is Dwight Schrute Bucks"
+          charset="utf-8"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
